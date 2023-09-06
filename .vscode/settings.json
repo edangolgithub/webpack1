@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c3462e70-eceb-42a0-80e9-953fb7ac8323/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/evanjs",
+    "appService.deploySubpath": "."
+}
